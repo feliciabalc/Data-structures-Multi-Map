@@ -1,0 +1,3 @@
+C:/Users/Diana/Downloads/Balc_Felicia_Lab2-MultiMap/cmake-build-debug/CMakeFiles/Balc_Felicia_Lab2_MultiMap.dir
+C:/Users/Diana/Downloads/Balc_Felicia_Lab2-MultiMap/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Diana/Downloads/Balc_Felicia_Lab2-MultiMap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
